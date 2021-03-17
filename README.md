@@ -12,6 +12,7 @@ Now your menu should look like this:
 2. Buy a ticket
 3. Statistics
 0. Exit
+
 When the item Statistics is chosen, your program should print the following information:
 
 * The number of purchased tickets;
