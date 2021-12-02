@@ -1,12 +1,12 @@
 # CinemaRoomManager
 
-# Description
+## Description
 
 Running a cinema theatre is no easy business. To help our friends, let's add statistics to your program. The stats will show the current income, total income, the number of available seats, and the percentage of occupancy.
 
 In addition, our friends asked you to take care of a small inconvenience: it's not good when a user can buy a ticket that has already been purchased by another user. Let's fix this!
 
-# Objectives
+## Objectives
 
 Now your menu should look like this:
 
